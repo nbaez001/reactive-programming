@@ -7,7 +7,12 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>reactive-hello</artifactId>
+    <version>1.0.0</version>
     <name>reactive-hello</name>
+
+    <properties>
+        <java.version>17</java.version>
+    </properties>
 
     <dependencies>
         <dependency>
